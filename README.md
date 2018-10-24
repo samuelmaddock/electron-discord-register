@@ -1,4 +1,8 @@
-# electron-discord-register
+# electron-discord-register [![npm][npm-image]][npm-url]
+
+[npm-image]: https://img.shields.io/npm/v/electron-discord-register.svg
+[npm-url]: https://npmjs.org/package/electron-discord-register
+
 Register an application protocol to launch your Electron app with Discord—without native modules.
 
 This module can be used to add support for Discord's Rich Presence [Ask to Join](https://discordapp.com/developers/docs/rich-presence/how-to#ask-to-join) and [Spectate](https://discordapp.com/developers/docs/rich-presence/how-to#spectating) features.
