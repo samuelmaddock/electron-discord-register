@@ -1,8 +1,9 @@
 {
   "name": "electron-discord-register",
   "version": "1.0.0",
-  "description": "Register your Discord enabled Electron app without any native modules",
+  "description": "Register an application protocol to launch your Electron app with Discord.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "electron test.js"
   },
